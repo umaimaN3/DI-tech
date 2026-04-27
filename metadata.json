@@ -1,0 +1,7 @@
+{
+  "name": "Di Tech Solutions",
+  "description": "Premium IT services company specializing in Cloud, Microsoft 365, Cybersecurity, and Enterprise Infrastructure.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
